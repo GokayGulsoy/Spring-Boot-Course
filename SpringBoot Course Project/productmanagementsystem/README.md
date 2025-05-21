@@ -18,5 +18,7 @@ Example usage of API for GET, POST, PUT, and DELETE requests is given in the fol
 
 ## Example Scenario for Testing REST API with POSTMAN
 
+First we create **Electronic appliances** product category by making POST request to URL: `http://localhost:8080/productcategories`: 
 
+![POST request to productcategories end point to crate Electronic Appliances product category](Images/POST_request_to_product_category_controller_1.png)
 
