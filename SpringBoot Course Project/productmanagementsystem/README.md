@@ -39,11 +39,11 @@ After we create product categories with POST requests, we will create products P
 
 ![POST request to products end point to create Playstation 4 product in Electronic Appliances category](Images/POST_request_to_product_controller_1.png)
 
-![Response from POST request to create Playstation 4 in Electronics Appliances product category](Images/POST_request_to_product_category_controller_response_1.png)
+![Response from POST request to create Playstation 4 in Electronics Appliances product category](Images/POST_request_to_product__controller_response_1.png)
 
 ![POST request to products end point to create Vacuum Cleaner product in Electronic Appliances category](Images/POST_request_to_product_controller_2.png)
 
-![Response from POST request to create Vacuum Cleaner in Electronics Appliances product category](Images/POST_request_to_product_category_controller_response_2.png)
+![Response from POST request to create Vacuum Cleaner in Electronics Appliances product category](Images/POST_request_to_product__controller_response_2.png)
 
 we will also create products Toaster and Oven in Home Appliances product category by making POST request to URL:  `http://localhost:8080/products?categoryId=2` 
 
