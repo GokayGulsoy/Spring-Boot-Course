@@ -73,11 +73,13 @@ we will add one more product to Electronic Appliances category which is Xbox Ser
 
 we will now make PUT request to products and productcategories to update Playstation 4 product's price from 15000.5 to 22000.5 and change the Electronic Appliances categorie's name to Electronic Gadgets with URLs: `http://localhost:8080/products/1?categoryId=1` and `http://localhost:8080/productcategories/1`
 
-![PUT request to products end point in order to update Playstation 4s price](Images/PUT_request_to_product_controller__1.png)
+![PUT request to products end point in order to update Playstation 4s price](Images/PUT_request_to_product_controller_1.png)
 
 ![Response from PUT request to products end point to update Playstation 4s price](Images/PUT_request_to_product_controller_response_1.png)
 
-![PUT request to productcategories end point in order to update Electronic Appliances categorie's name](Images/PUT_request_to_product_category_controller_response_1.png)
+![PUT request to productcategories end point in order to update Electronic Appliances categorie's name](Images/PUT_request_to_product_category_controller_1.png)
+
+![Response from PUT request to products end point to update Electronic Appliances categorie's name](Images/PUT_request_to_product_category_controller_response_1.png)
 
 we will finally make a DELETE request to delete Xbos Series X product and Home Appliances product category with URLs: `http://localhost:8080/products/5` and `http://localhost:8080/productcategories/2` 
 
