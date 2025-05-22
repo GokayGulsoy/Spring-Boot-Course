@@ -12,7 +12,7 @@ It fullfills the following use cases:
 7. Updating name and/or price of products
 8. Listing existing product/products
 
-All users are allowed to list products and product categories, whereas only users whose role are `ADMIN`
+All users are allowed to list products and product categories, whereas only users whose role is `ADMIN`
 allowed to create, update, and delete product or product categories (`Basic Authentication` used). 
 Example usage of API for GET, POST, PUT, and DELETE requests is given in the following seciton. 
 
