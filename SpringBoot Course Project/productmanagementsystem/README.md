@@ -21,6 +21,8 @@ In order to run application, execute the following command in terminal from spri
 NOTE: In order to execute POST, PUT, and DELETE requests `username: admin` and `password: test` must be provided in POSTMAN's authorization tab with Basic Authentication, for GET requests èither of the `username: admin` and `password: test`
 or `username: user` and `password: test` username-password pairs can be used.
 
+Swagger API documentation can be found in the following URL: `http://localhost:8080/swagger-ui.html`
+
 I have used PostgreSQL as a DBMS with the following ER Diagram for the schema:
 
 ![ER Diagram describing the schema of the product management system database](Images/Database-ER_Diagram.png)
